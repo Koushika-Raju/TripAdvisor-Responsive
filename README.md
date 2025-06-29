@@ -20,7 +20,7 @@
 
 🚀 This repository demonstrates modern, responsive web design techniques without external frameworks.
 
-🔗 Live demo & code: https://github.com/your-username/tripadvisor-clone
+🔗 Live demo & code: https://koushika-raju.github.io/TripAdvisor-Responsive/
 
 Regards,
 👩‍💻 Koushika
